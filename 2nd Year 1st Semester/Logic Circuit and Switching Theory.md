@@ -31,9 +31,9 @@
   - difference between global and local declaration of functions (distribution of values)
 
 .q4 - logical operations
-  -and {&&}
-  -or {||}
-  -not {!}
+  - and {&&}
+  - or {||}
+  - not {!}
   - we'll use truth table as well
 
 .app - c-language {IDE: CC386}
