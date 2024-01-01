@@ -18,7 +18,7 @@ A very small change in the value of dependent variable “y” over the very sma
 
 ## General Rule of Differentiation
   __(The 4-Step Rule)__
-1. Replace y by “y + ∆y” and x by “ + ∆x”.
+1. Replace y by “$y + ∆y$” and x by “ + ∆x”.
     - y = f(x)
     - y+ ∆y = f(x + ∆x)
 2. Subtract y from the function of x
@@ -38,8 +38,8 @@ A very small change in the value of dependent variable “y” over the very sma
 ## Differentiate the following by 4-Step Rule:
 
 
-
-
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 
 
