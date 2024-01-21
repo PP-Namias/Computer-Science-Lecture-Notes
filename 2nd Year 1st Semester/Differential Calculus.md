@@ -42,4 +42,16 @@ $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 
 
+|----|
 
+II. Derivatives of Algebraic Functions
+$${d \over dx} (c) = 0$$
+$${d \over dx} (x) = 1$$
+$${d \over dx} (cu) = c*  {du \over dx}$$
+$${d \over dx} (u ± v ± w) = {du \over dx} ± {dv \over dx} ± {dw \over dx}$$
+$${d \over dx} (uv) = u {dv \over dx} + v {du \over dx}$$
+$${d \over dx} (uvw) = uv {dw \over dx}+ uw {dv \over dx}+ vw {du \over dx}$$
+$${d \over dx} (u^n ) = nu^{n-1} *  {du \over dx}$$
+$${d \over dx} (√u) = {{du \over dx} \over 2√u}$$
+$${d \over dx} ({u \over v}) = {v {du \over dx} ± u {dv \over dx} \over v^2}$$
+$${d \over dx} ({c \over v}) = {-c \over v^2} * {dv \over dx}$$
