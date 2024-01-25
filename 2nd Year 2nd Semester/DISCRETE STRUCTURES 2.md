@@ -4,17 +4,17 @@
 - Induction
 - permutations
 - Network model
+>
+- Prim's algorithm
+- Kruskal algorithm
 
-prems algorithim
-pruscal algorithim
-
-we compute then we apply exercises
+`we compute then we apply exercises`
 
 
 https://web.stanford.edu/class/cs103x/cs103x-notes.pdf
 
- matrix in the program wnat ni sir
- can be solve in manual so can exam with pencil and paper
+matrix in the program want ni sir
+- can be solve in manual so can exam with pencil and paper
 
 program side output
 solve the topic using manual method u translate the manual to a program na (gawa mo)
@@ -24,16 +24,13 @@ midterm and final; exam included on the activites (sa mga outputs nagagawin nati
 all algorithim ouput lang
 
 disscuss the solution sa atin
-probably with groups 2 or 3 mins
+[*probably with groups 2 or 3 mins*]
 
-![Alt text](image.png)
 
-examinations will fucos on programing natin :)
+examinations will focus on programing part natin :)
 
-permutations
-combination
-peguin hold prensiple
+- permutations 
+- combination
+- penguin hold prensiple (para sa mga probabilistic)
 
-para sa mga probabilistic
-
-next meeting clase
+next meeting class for futher disscussion
