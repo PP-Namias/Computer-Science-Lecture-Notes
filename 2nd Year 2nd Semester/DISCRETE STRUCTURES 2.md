@@ -34,3 +34,18 @@ examinations will focus on programing part natin :)
 - penguin hold prensiple (para sa mga probabilistic)
 
 next meeting class for futher disscussion
+
+
+Topics
+ 1. Sets
+ 2. Functions
+ 3. Propositional Logic
+ 4. Predicate Logic
+ 5. Boolean Algebra
+ 6. Induction & Recursion
+ 7. Graphs
+ 8. Trees
+ 9. Relations
+10. Combinatorics
+11. Matrix
+12. Networks
