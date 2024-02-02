@@ -36,7 +36,7 @@ examinations will focus on programing part natin :)
 next meeting class for futher disscussion
 
 
-Topics
+# Topics
  1. Sets
  2. Functions
  3. Propositional Logic
@@ -49,3 +49,9 @@ Topics
 10. Combinatorics
 11. Matrix
 12. Networks
+
+# Set Theory
+Rosen 6th ed., 2.1-2.2
+https://slideplayer.com/slide/14627774/
+
+Logic Inputs next topic
