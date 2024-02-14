@@ -1,4 +1,38 @@
 https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-hci/
+## Summary 
+### The Rise of HCI 
+- 1980's
+- Apple introduced the Macintosh in 1984
+- much more accessible
+- making communication simpler
+- designing, implementing, and evaluating interactive interfaces
+
+## Key components of HCI
+- User
+- Goal-oriented task
+- Interface
+- Context
+
+## Examples of HCI
+  1. IoT technology
+  2. Eye-tracking technology
+  3. Speech recognition technology
+  4. AR/VR technology
+  5. Cloud computing
+  
+## Goals of HCI
+### Usability
+- How to use it
+- Safe
+- Efficient
+- Effective
+- Utility
+- Enjoyable
+
+### User Experience
+- Disable Traits
+- Undesirable Traits
+
 
 # What Is HCI (Human-Computer Interaction)? Meaning, Importance, Examples, and Goals
 Human-computer interaction (HCI) targets the design and implementation of interactive technology.
@@ -13,6 +47,12 @@ The emergence of HCI dates back to the 1980s, when personal computing was on the
 However, with the advent of the internet and the explosion of mobile and diversified technologies such as voice-based and Internet of Things (IoT), computing became omnipresent and omnipotent. Technological competence further led to the evolution of user interactions. Consequently, the need for developing a tool that would make such man-machine interactions more human-like grew significantly. This established HCI as a technology, bringing different fields such as cognitive engineering, linguistics, neuroscience, and others under its realm.
 
 Today, HCI focuses on designing, implementing, and evaluating interactive interfaces that enhance user experience using computing devices. This includes user interface design, user-centered design, and user experience design.
+
+Human Computer Interaction (HCI) – to satisfy users, mainly designs and interface. How easy your program is and how appealing it is to the user.
+User Interface (UI) – aesthetic, colors, buttons, and designs.
+User Experience (UX) – how the user feels about your program, user’s satisfaction, and user’s interaction to your program from first to last.
+
+
 
 ## Key components of HCI
 Fundamentally, HCI is made up of four key components:
@@ -78,6 +118,3 @@ To realize the above points, developers must focus on two relevant areas: usabil
 
     - Desirable traits – satisfying, enjoyable, motivating, or surprising
     - Undesirable traits – Frustrating, unpleasant, or annoying
-
-
-
