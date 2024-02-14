@@ -40,7 +40,6 @@ https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-hci/
 - Disable Traits
 - Undesirable Traits
 
-
 # What Is HCI (Human-Computer Interaction)? Meaning, Importance, Examples, and Goals
 Human-computer interaction (HCI) targets the design and implementation of interactive technology.
 
@@ -86,27 +85,23 @@ Today, user manuals for general computer systems are a rarity. Very few advanced
 ## Key components of HCI
 Fundamentally, HCI is made up of four key components:
 
-1. __The user__
+### 1. __The user__
+The user component refers to an individual or a group of individuals that participate in a common task. HCI studies users’ needs, goals, and interaction patterns. It analyzes various parameters such as users’ cognitive capabilities, emotions, and experiences to provide them with a seamless experience while interacting with computing systems.
 
-    The user component refers to an individual or a group of individuals that participate in a common task. HCI studies users’ needs, goals, and interaction patterns. It analyzes various parameters such as users’ cognitive capabilities, emotions, and experiences to provide them with a seamless experience while interacting with computing systems.
+### 2. __The goal-oriented task__
+A user operates a computer system with an objective or goal in mind. The computer provides a digital representation of objects to accomplish this goal. For example, booking an airline for a destination could be a task for an aviation website. In such goal-oriented scenarios, one should consider the following aspects for a better user experience:
 
-2. __The goal-oriented task__
+- The complexity of the task that the user intends to accomplish
+- Knowledge and skills necessary to interact with the digital object
+- Time required to carry out the task
 
-    A user operates a computer system with an objective or goal in mind. The computer provides a digital representation of objects to accomplish this goal. For example, booking an airline for a destination could be a task for an aviation website. In such goal-oriented scenarios, one should consider the following aspects for a better user experience:
+### 3. __The interface__
+The interface is a crucial HCI component that can enhance the overall user interaction experience. Various interface-related aspects must be considered, such as interaction type (touch, click, gesture, or voice), screen resolution, display size, or even color contrast. Users can adjust these depending on the user’s needs and requirements.
 
-     - The complexity of the task that the user intends to accomplish
-    - Knowledge and skills necessary to interact with the digital object
-    - Time required to carry out the task
+For example, consider a user visiting a website on a smartphone. In such a case, the mobile version of the website should only display important information that allows the user to navigate through the site easily. Moreover, the text size should be appropriately adjusted so that the user is in a position to read it on the mobile device. Such design optimization boosts user experience as it makes them feel comfortable while accessing the site on a mobile phone.
 
-3. __The interface__
-
-    The interface is a crucial HCI component that can enhance the overall user interaction experience. Various interface-related aspects must be considered, such as interaction type (touch, click, gesture, or voice), screen resolution, display size, or even color contrast. Users can adjust these depending on the user’s needs and requirements.
-
-    For example, consider a user visiting a website on a smartphone. In such a case, the mobile version of the website should only display important information that allows the user to navigate through the site easily. Moreover, the text size should be appropriately adjusted so that the user is in a position to read it on the mobile device. Such design optimization boosts user experience as it makes them feel comfortable while accessing the site on a mobile phone.
-
-4. __The context__
-
-    HCI is not only about providing better communication between users and computers but also about factoring in the context and environment in which the system is accessed. For example, while designing a smartphone app, designers need to evaluate how the app will visually appear in different lighting conditions (during day or night) or how it will perform when there is a poor network connection. Such aspects can have a significant impact on the end-user experience.
+### 4. __The context__
+HCI is not only about providing better communication between users and computers but also about factoring in the context and environment in which the system is accessed. For example, while designing a smartphone app, designers need to evaluate how the app will visually appear in different lighting conditions (during day or night) or how it will perform when there is a poor network connection. Such aspects can have a significant impact on the end-user experience.
 
 Thus, HCI is a result of continuous testing and refinement of interface designs that can affect the context of use for the users.
 
@@ -144,5 +139,5 @@ To realize the above points, developers must focus on two relevant areas: __usab
 
     HCI systems classify user interaction patterns into the following categories and further refine the system based on the detected pattern:
 
-    - Desirable traits – satisfying, enjoyable, motivating, or surprising
-    - Undesirable traits – Frustrating, unpleasant, or annoying
+    - __Desirable traits__ – satisfying, enjoyable, motivating, or surprising
+    - __Undesirable traits__ – Frustrating, unpleasant, or annoying
