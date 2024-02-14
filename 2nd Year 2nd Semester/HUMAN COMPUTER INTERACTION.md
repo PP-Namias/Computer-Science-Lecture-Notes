@@ -76,7 +76,6 @@ HCI is an integral part of software development companies that develop software 
 ### 5. Useful for untrained communities
 Today, user manuals for general computer systems are a rarity. Very few advanced and complex computing systems provide user manuals. In general, users expect the systems to be user-friendly and enable them to access the system within a few minutes of interacting with it. Here, HCI is an effective tool that designers can use to design easy-to-use interfaces. HCI principles also ensure that the systems have obvious interfaces and do not require special training to be used. Hence, HCI makes computing systems suitable for an untrained community.
 
-
 ## Key components of HCI
 Fundamentally, HCI is made up of four key components:
 
@@ -89,7 +88,6 @@ Fundamentally, HCI is made up of four key components:
     A user operates a computer system with an objective or goal in mind. The computer provides a digital representation of objects to accomplish this goal. For example, booking an airline for a destination could be a task for an aviation website. In such goal-oriented scenarios, one should consider the following aspects for a better user experience:
 
      - The complexity of the task that the user intends to accomplish
-
     - Knowledge and skills necessary to interact with the digital object
     - Time required to carry out the task
 
@@ -115,12 +113,12 @@ Thus, HCI is a result of continuous testing and refinement of interface designs 
 ## Goals of HCI
 The principal objective of HCI is to develop functional systems that are usable, safe, and efficient for end-users. The developer community can achieve this goal by fulfilling the following criteria:
 
-Have sound knowledge of how users use computing systems
-Design methods, techniques, and tools that allow users to access systems based on their needs
-Adjust, test, refine, validate, and ensure that users achieve effective communication or interaction with the systems
-Always give priority to end-users and lay the robust foundation of HCI
+- Have sound knowledge of how users use computing systems
+- Design methods, techniques, and tools that allow users to access systems based on their needs
+- Adjust, test, refine, validate, and ensure that users achieve effective communication or interaction with the systems
+- Always give priority to end-users and lay the robust foundation of HCI
 
-To realize the above points, developers must focus on two relevant areas: usability and user experience. Let’s look at each category in detail:
+To realize the above points, developers must focus on two relevant areas: __usability__ and __user experience__. Let’s look at each category in detail:
 
 1. __Usability__
     
