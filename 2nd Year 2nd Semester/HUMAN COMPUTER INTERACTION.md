@@ -52,6 +52,29 @@ Human Computer Interaction (HCI) – to satisfy users, mainly designs and interf
 User Interface (UI) – aesthetic, colors, buttons, and designs.
 User Experience (UX) – how the user feels about your program, user’s satisfaction, and user’s interaction to your program from first to last.
 
+## Importance of HCI
+HCI is crucial in designing intuitive interfaces that people with different abilities and expertise usually access. Most importantly, human-computer interaction is helpful for communities lacking knowledge and formal training on interacting with specific computing systems.
+
+With efficient HCI designs, users need not consider the intricacies and complexities of using the computing system. User-friendly interfaces ensure that user interactions are clear, precise, and natural.
+
+Let’s understand the importance of HCI in our day-to-day lives:
+
+### 1. HCI in daily lives
+Today, technology has penetrated our routine lives and has impacted our daily activities. To experience HCI technology, one need not own or use a smartphone or computer. When people use an ATM, food dispensing machine, or snack vending machine, they inevitably come in contact with HCI. This is because HCI plays a vital role in designing the interfaces of such systems that make them usable and efficient.
+
+### 2. Industry
+Industries that use computing technology for day-to-day activities tend to consider HCI a necessary business-driving force. Efficiently designed systems ensure that employees are comfortable using the systems for their everyday work. With HCI, systems are easy to handle, even for untrained staff.
+
+HCI is critical for designing safety systems such as those used in air traffic control (ATC) or power plants. The aim of HCI, in such cases, is to make sure that the system is accessible to any non-expert individual who can handle safety-critical situations if the need arises.
+
+### 3. Accessible to disabled
+The primary objective of HCI is to design systems that make them accessible, usable, efficient, and safe for anyone and everyone. This implies that people with a wide range of capabilities, expertise, and knowledge can easily use HCI-designed systems. It also encompasses people with disabilities. HCI tends to rely on user-centered techniques and methods to make systems usable for people with disabilities.
+
+### 4. An integral part of software success
+HCI is an integral part of software development companies that develop software for end-users. Such companies use HCI techniques to develop software products to make them usable. Since the product is finally consumed by the end-user, following HCI methods is crucial as the product’s sales depend on its usability.
+
+### 5. Useful for untrained communities
+Today, user manuals for general computer systems are a rarity. Very few advanced and complex computing systems provide user manuals. In general, users expect the systems to be user-friendly and enable them to access the system within a few minutes of interacting with it. Here, HCI is an effective tool that designers can use to design easy-to-use interfaces. HCI principles also ensure that the systems have obvious interfaces and do not require special training to be used. Hence, HCI makes computing systems suitable for an untrained community.
 
 
 ## Key components of HCI
