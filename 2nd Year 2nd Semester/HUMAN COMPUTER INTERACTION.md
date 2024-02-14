@@ -1,44 +1,45 @@
 https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-hci/
 ## Summary 
 ### The Rise of HCI 
-    - 1980's
-    - Apple introduced the Macintosh in 1984
-    - much more accessible
-    - making communication simpler
-    - designing, implementing, and evaluating interactive interfaces
+- 1980's
+- Apple introduced the Macintosh in 1984
+- much more accessible
+- making communication simpler
+- designing, implementing, and evaluating interactive interfaces
 
 ## Key components of HCI
-    - User
-    - Goal-oriented task
-    - Interface
-    - Context
+- User
+- Goal-oriented task
+- Interface
+- Context
 
 ## Importance of HCI
-    1. HCI in daily lives
-    2. Industry
-    3. Accessible to disabled
-    4. An integral part of software success
-    5. Useful for untrained communities
+  1. HCI in daily lives
+  2. Industry
+  3. Accessible to disabled
+  4. An integral part of software success
+  5. Useful for untrained communities
 
 ## Examples of HCI
-    1. IoT technology
-    2. Eye-tracking technology
-    3. Speech recognition technology
-    4. AR/VR technology
-    5. Cloud computing
-
+  1. IoT technology
+  2. Eye-tracking technology
+  3. Speech recognition technology
+  4. AR/VR technology
+  5. Cloud computing
+  
 ## Goals of HCI
-  ### Usability
-    - How to use it
-    - Safe
-    - Efficient
-    - Effective
-    - Utility
-    - Enjoyable
+### Usability
+- How to use it
+- Safe
+- Efficient
+- Effective
+- Utility
+- Enjoyable
 
-  ### User Experience
-    - Disable Traits
-    - Undesirable Traits
+### User Experience
+- Disable Traits
+- Undesirable Traits
+
 
 # What Is HCI (Human-Computer Interaction)? Meaning, Importance, Examples, and Goals
 Human-computer interaction (HCI) targets the design and implementation of interactive technology.
