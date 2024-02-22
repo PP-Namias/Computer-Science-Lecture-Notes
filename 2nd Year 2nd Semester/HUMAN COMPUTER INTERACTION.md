@@ -7,6 +7,11 @@ https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-hci/
 - making communication simpler
 - designing, implementing, and evaluating interactive interfaces
 
+## HCI begans 
+- video game 
+- word processors
+- numerical units
+
 ## Key components of HCI
 - User
 - Goal-oriented task
@@ -46,7 +51,7 @@ Human-computer interaction (HCI) targets the design and implementation of intera
 Human-computer interaction (HCI) is defined as the field of study that focuses on optimizing how users and computers interact by designing interactive computer interfaces that satisfy users’ needs. This article explains the fundamentals of HCI, its goals, importance, and examples.
 
 ## What Is HCI?
-Human-computer interaction (HCI) is the field of study that focuses on optimizing how users and computers interact by designing interactive computer interfaces that satisfy users’ needs. It is a multidisciplinary subject covering computer science, behavioral sciences, cognitive science, ergonomics, psychology, and design principles.
+Human-computer interaction (HCI) is the field of study that focuses on optimizing how users and computers interact by designing interactive computer interfaces that __satisfy users’__ needs. It is a multidisciplinary subject covering computer science, behavioral sciences, cognitive science, ergonomics, psychology, and design principles.
 
 The emergence of HCI dates back to the 1980s, when personal computing was on the rise. It was when desktop computers started appearing in households and corporate offices. HCI’s journey began with video games, word processors, and numerical units.
 
@@ -55,8 +60,8 @@ However, with the advent of the internet and the explosion of mobile and diversi
 Today, HCI focuses on designing, implementing, and evaluating interactive interfaces that enhance user experience using computing devices. This includes user interface design, user-centered design, and user experience design.
 
 Human Computer Interaction (HCI) – to satisfy users, mainly designs and interface. How easy your program is and how appealing it is to the user.
-User Interface (UI) – aesthetic, colors, buttons, and designs.
-User Experience (UX) – how the user feels about your program, user’s satisfaction, and user’s interaction to your program from first to last.
+__User Interface (UI)__ – aesthetic, colors, buttons, and designs.
+__User Experience (UX)__ – how the user feels about your program, user’s satisfaction, and user’s interaction to your program from first to last.
 
 ## Importance of HCI
 HCI is crucial in designing intuitive interfaces that people with different abilities and expertise usually access. Most importantly, human-computer interaction is helpful for communities lacking knowledge and formal training on interacting with specific computing systems.
