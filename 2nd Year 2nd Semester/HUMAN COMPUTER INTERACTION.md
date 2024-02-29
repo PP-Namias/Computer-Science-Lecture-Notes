@@ -141,3 +141,140 @@ To realize the above points, developers must focus on two relevant areas: __usab
 
     - __Desirable traits__ – satisfying, enjoyable, motivating, or surprising
     - __Undesirable traits__ – Frustrating, unpleasant, or annoying
+
+# Interactive System Design
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiS-_GHws-EAxXDxTgGHYdGCKgQFnoECBgQAQ&url=https%3A%2F%2Fhci-lecture.de%2FHCI%2Ftopics%2Fintro%2F02-TermiBasics%2FtermiBasics20200413.pptx&usg=AOvVaw1trjs2t2uIsMBBxMwRPEn8&opi=89978449
+## Interactive Systems
+### Definition and Examples
+- An __Interactive System__ is a computational system that allows users to interact in real-time. Interactions receive instant feedback visible to the user.
+- Interactive computing is used in a similar way, with a focus that is less on the systems aspect. 
+
+__Examples__
+- __Graphical user interfaces__, such as Windows 10 or MacOS
+- __Mobile devices__, such as an Android phone 
+gaming consoles, such as Xbox with Kinect or Nintendo Switch 
+- __Ticket vending machines__, such as the DB-ticket machine  
+- __Command line interfaces__, such as an SSH console 
+
+https://www.tutorialspoint.com/human_computer_interface/interactive_system_design.htm
+
+## Concept of Usability Engineering
+__Usability Engineering__ is a method in the progress of software and systems, which includes user contribution from the inception of the process and assures the effectiveness of the product through the use of a usability requirement and metrics.
+
+    It thus refers to the Usability Function features of the entire process of abstracting, implementing & testing hardware and software products. Requirements gathering stage to installation, marketing and testing of products, all fall in this process.
+
+### Goals of Usability Engineering
+- __Effective to use__ − Functional
+- __Efficient to use__ − Efficient
+- __Error free in use__ − Safe
+- __Easy to use__ − Friendly
+- __Enjoyable in use__ − Delightful Experience
+
+### Usability
+__Usability has three components__ − effectiveness, efficiency and satisfaction, using which, users accomplish their goals in particular environments. Let us look in brief about these components.
+- __Effectiveness__ − The completeness with which users achieve their goals.
+- __Efficiency__ − The competence used in using the resources to effectively achieve the goals.
+- __Satisfaction__ − The ease of the work system to its users.
+
+## Usability Study
+The methodical study on the interaction between people, products, and environment based on experimental assessment. 
+_Example: Psychology, Behavioral Science, etc._
+
+- __Usability Testing__
+The scientific evaluation of the stated usability parameters as per the user’s requirements, competences, prospects, safety and satisfaction is known as usability testing.
+
+- __Acceptance Testing__
+Acceptance testing also known as User Acceptance Testing (UAT), is a testing procedure that is performed by the users as a final checkpoint before signing off from a vendor. Let us take an example of the handheld barcode scanner.
+
+```Let us assume that a supermarket has bought barcode scanners from a vendor. The supermarket gathers a team of counter employees and make them test the device in a mock store setting. By this procedure, the users would determine if the product is acceptable for their needs. It is required that the user acceptance testing "pass" before they receive the final product from the vendor.```
+
+https://www.usability.gov/how-to-and-tools/methods/usability-testing.html
+
+__To run an effective usability test__, __you need to develop a solid test plan__, __recruit participants__, and then __analyze and report your findings__.
+
+## Benefits of Usability Testing
+_Usability testing lets the design and development teams identify problems before they are coded. The earlier issues are identified and fixed, the less expensive the fixes will be in terms of both staff time and possible impact to the schedule.  During a usability test, you will:_
+- Learn if participants are able to complete specified tasks successfully and
+- Identify how long it takes to complete specified tasks
+- Find out how satisfied participants are with your Web site or other product
+- Identify changes required to improve user performance and satisfaction
+- And analyze the performance to see if it meets your usability objectives
+
+https://www.inrhythm.com/guide-to-integration-testing/
+![Usability Testing](Usability%20Testing.png)
+system now is perform
+
+## Each Testing Level Details
+__Unit testing:__ > Proposal, Languge, Flowchart, Algorithims, IDE etc to make the program
+A Unit is a smallest testable portion of system or application which can be compiled, liked, loaded, and executed. This kind of testing helps to test each module separately.
+
+The aim is to test each part of the software by separating it. It checks that component are fulfilling functionalities or not. This kind of testing is performed by developers.
+
+__Integration testing:__
+Integration means combining. For Example, In this testing phase, different software modules are combined and tested as a group to make sure that integrated system is ready for system testing.
+
+Integrating testing checks the data flow from one module to other modules. This kind of testing is performed by testers.
+
+__System Testing:__
+System testing is performed on a complete, integrated system. It allows checking system’s compliance as per the requirements. It tests the overall interaction of components. It involves load, performance, reliability and security testing.
+
+System testing most often the final test to verify that the system meets the specification. It evaluates both functional and non-functional need for the testing.
+
+__Acceptance testing:__ > Checking on prof > gets grade
+Acceptance testing is a test conducted to find if the requirements of a specification or contract are met as per its delivery. Acceptance testing is basically done by the user or customer. However, other stockholders can be involved in this process.
+during development on systems 
+
+https://www.tutorialspoint.com/human_computer_interface/interactive_system_design.htm
+## Software Tools
+A software tool is a programmatic software used to create, maintain, or otherwise support other programs and applications. Some of the commonly used software tools in HCI are as follows −
+
+- __Specification Methods__ − The methods used to specify the GUI. Even though these are lengthy and ambiguous methods, they are easy to understand.
+
+- __Grammars__ − Written Instructions or Expressions that a program would understand. They provide confirmations for completeness and correctness.
+
+- __Transition Diagram__ − Set of nodes and links that can be displayed in text, link frequency, state diagram, etc. They are difficult in evaluating usability, visibility, modularity and synchronization.
+
+- __Statecharts__ − Chart methods developed for simultaneous user activities and external actions. They provide link-specification with interface building tools.
+
+- __Interface Building Tools__ − Design methods that help in designing command languages, data-entry structures, and widgets.
+
+- __Interface Mockup Tools__ − Tools to develop a quick sketch of GUI. E.g., Microsoft Visio, Visual Studio .Net, etc.
+
+- __Software Engineering Tools__ − Extensive programming tools to provide user interface management system.
+
+- __Evaluation Tools__ − Tools to evaluate the correctness and completeness of programs.
+
+## HCI and Software Engineering
+Software engineering is the study of designing, development and preservation of software. It comes in contact with HCI to make the man and machine interaction more vibrant and interactive.
+
+Let us see the following model in software engineering for interactive designing.
+
+### The Waterfall Method
+![Waterfall Model](Waterfall%20Model.png)
+### Interactive System Design
+![Interactive System Design](Interactive System Design.png)
+The uni-directional movement of the waterfall model of Software Engineering shows that every phase depends on the preceding phase and not vice-versa. However, this model is not suitable for the interactive system design.
+
+The interactive system design shows that every phase depends on each other to serve the purpose of designing and product creation. It is a continuous process as there is so much to know and users keep changing all the time. An interactive system designer should recognize this diversity.
+
+## Prototyping
+Prototyping is another type of software engineering models that can have a complete range of functionalities of the projected system.
+
+In HCI, prototyping is a trial and partial design that helps users in testing design ideas without executing a complete system.
+
+Example of a prototype can be Sketches. Sketches of interactive design can later be produced into graphical interface. See the following diagram.
+![Prototyping](Prototyping.png)
+
+### 3 types of Prototyping
+- __Low Fidelity Prototype__
+- __Medium Fidelity Prototype__
+- __Hi Fidelity Prototype__
+
+The above diagram can be considered as a __Low Fidelity Prototype__ as it uses manual procedures like sketching in a paper.
+
+A __Medium Fidelity Prototype__ involves some but not all procedures of the system. E.g., first screen of a GUI.
+
+Finally, a __Hi Fidelity Prototype__ simulates all the functionalities of the system in a design. This prototype requires, time, money and work force.
+
+- __ORAL MIDTERM EXAMINATION
+SECOND WEEK MARCH__
