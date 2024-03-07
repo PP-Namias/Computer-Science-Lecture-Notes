@@ -281,5 +281,96 @@ A __Medium Fidelity Prototype__ involves some but not all procedures of the syst
 
 Finally, a __Hi Fidelity Prototype__ simulates all the functionalities of the system in a design. This prototype requires, time, money and work force.
 
-- __ORAL MIDTERM EXAMINATION
-SECOND WEEK MARCH__
+# __ORAL MIDTERM EXAMINATION SECOND WEEK March 14__
+Next Week March 14, 2024 [ 10-1pm ]
+
+
+https://www.tutorialspoint.com/human_computer_interface/interactive_system_design.htm#:~:text=User%20Centered%20Design%20(UCD),user%20centered%20design%20or%20UCD.
+## User Centered Design (UCD)
+The process of collecting feedback from users to improve the design is known as user centered design or UCD.
+
+### UCD Drawbacks
+- Passive user involvement.
+- User’s perception about the new interface may be inappropriate.
+- Designers may ask incorrect questions to users.
+
+## Interactive System Design Life Cycle (ISLC)
+The stages in the following diagram are repeated until the solution is reached.
+
+__Diagram__
+![Interactive System Design Life Cycle](Diagram.png)
+
+
+https://www.pling.org.uk/cs/doi.html
+
+Before we can continue, we need to consider what we mean by the term users. We can consider three levels of users:
+
+### __"3 Types of Users"__
+- __Primary users__ - regular/frequent users of the system
+- __Secondary users__ - occasional users of the system, those who use the system occasionally, or only through an intermediary
+- __Tertiary users__ - those affected by the system introduction, or who will influence purchase of the system
+
+## __Key Principles of Interactive Design__
+- __Learnability__ - how easy the system is to use
+- __Memorability__ - how easy is the system to remember how to use
+- __Consistency__ - to what extent are similar tasks conducted in similar ways within the system (this will contribute to learnability)
+- __Visibility__ - to what extent does the system make it clear what you can/should do next
+- __Constraints__ - design the system so that users won't make mistakes and won't be led into frustrating/irritating dead ends
+- __Feedback__ - provide good feedback on the status of the system, what has happened, what is happening, what will happen
+
+## Interaction Styles
+We need to get computers and complex systems to do things - somehow we have to "tell" them what to do. In turn, they have to give us information - the status of the system, what to do next, what's wrong, how to fix it.
+
+One metaphor for this is to consider interacting with these systems as a dialogue - you tell/ask the system to do something, it tells you things back; not too dissimilar to having a conversation with a human being. Another metaphor is to consider these systems as objects that you do things with and interact with (for example, putting waste in a waste paper bin), or as navigating through a space and going places (the web).
+
+### Command Line Dialogue
+This style is not widely used, but is useful to understand it to consider more recent and long-term developments. This is the first interaction style that appeared on PCs, taking over from mainframe systems.
+
+The conversational metaphor applies here, where you're talking to the computer through your keyboard and it reacts. However, the language you speak in must be correct to the last dot and in the correct order, much like speaking a foreign language. The system doesn't give you any clues on what to do, so you must remember (or use a crib sheet), the syntax of the language. These commands can get quite long and complex, especially when passing lots of options and (in UNIX), piping one command to the other.
+
+You also get limited feedback about what is happening, a command such as rf may return you directly to the command line, after deleting 0 or 100 files. The later versions of DOS took the feedback step too far, however, asking for a confirmation of every file by default. This is programmed by the interaction designer, and they have to remember to do this and get the level of interaction right.
+
+If you do get the command correct, however, this can be a very efficient way of operating a complex system. A short, but powerful, language allows you to acheive a great deal and people are willing to invest the time to learn this language to get the most efficient use of the system.
+
+However, although computers are good at dealing with cryptic strings, complex syntax and an exact reproduction of the syntax every time, humans aren't. This interaction system stemmed from the fact that processing power was expensive, so humans had to adapt to the way computers needed to interact, not vice versa. This is no longer the case.
+
+### Menu Interaction Style
+Although the command line style was good for experts, it wasn't for novice of infrequent users, so an interaction style was developed which is almost the complete opposite of command line dialogue in terms of strengths and weaknesses - menus.
+
+Menus are simple, as not much needs to be remembered as the options are there on screen and the physical interface corresponds directly to the options available. Feedback is immediate - selecting an option will either take you to another screen of menus or to perform the selected task.
+
+Feedback is natural and built in -you can see whether you are going the right way, because either something relevant occurs - much like handling objects gives you instant built in feedback.
+
+Selections from objects (such as radio buttons) can be thought of as a menu, even though the selection method is different.
+
+Menu systems should be usable without any prior knowledge or memory of previous use, as it leads you through the interaction. This is excellent for novice and infrequent users (hence their use in public terminals of many varieties). However, a complex menu structure can complicate matters where particular features will be found (e.g., IVR systems)
+
+Expert and frequent users get irritated by having to move through the same menu structure every time they do a particular task (hence shortcut keys in applications such as Word), and menu systems also present a lack of flexibility - you can only do what menu options are present for you, so menu driven systems only work where there is a fairly limited number of options at any point. Items also need to be logically grouped.
+
+### Form Fill-In Interaction Style
+A form is provided for the user to fill in. Perhaps not the most revolutionary or interesting of interaction styles, but it is based on another real world metaphor - filling out a paper form. This also illustrates another problem with metaphors, not everything transfers well from one medium to another.
+
+#### Forms present lots of little problems:
+- __How many characters can be typed in the field__ - this is often not clear, and there is no inherent indication of this (needs to be explicitely built in by the interaction designer) - this violates the feedback principle.
+- __What format is supposed to be used__ - particularly for things like dates
+- __Lack of information__ - what if all information known by the form isn't available immediately. The design may not let you process beyond the dialogue box
+
+However, this system does have strengths. If the system is well-designed, any novice can use them and it has a strong analogy to paper forms, and the user can be led easily through the process. However, they are easy to design badly, and hence confuse and irritate the user.
+
+### Direct Manipulation
+The heart of modern graphical user interfaces (GUIs, sometimes referred to as WIMP - Windows, Icons, Mouse/Menus, Pointers) or "point and click" interfaces is direct manipulation (note, GUI and WIMP themselves are not interaction styles).
+
+The idea of direct manipulation is that you have objects (often called widgets) in the interface (icons, buttons, windows, scrollbars, etc) and you manipulate those like real objects.
+
+One of the main advantages of direct manipulation is that you get (almost) immediate natural feedback on the consequences of your action by the change in the object and its context in the interface. Also, with the widgets being onscreen, you are provided with clues as to what you can do (doesn't help much with items buried in menu hierarchies). The nature of widgets should tell you something about what can be done with them (affordance), and with widgets, many more objects can be presented simultaneously (more than menus).
+
+However, interface actions don't always have real world metaphors you can build on (e.g., executing a file) and information rich interactions don't always tend to work well with the object metaphor and direct manipulation becomes tedious for repetitive tasks, such as dragging, copying, etc...
+
+### Natural Language Interfaces
+The ultimate goal of the conversational metaphor is for us to have a dialogue with the computer in our own natural language. This might be written, but spoken seems easier. Voice in/voice out systems have been developed, where the computer recognises what you say (using speech recognition technology) and produces a response, spoken via text-to-speech (TTS).
+
+This kind of system should be "walk up and use", just speak your own language and this should suit both novices and expert users. This isn't yet technologically feasible, as the AI is largely fake and can only recognise key words. If speech recognition fails, it is easy to get into nasty loops, where it is not clear as to how you get out again (this is the feedback principle). There is also the problem of different accents and recognising older voices, and privacy and security issues are introduced.
+
+# __ORAL MIDTERM EXAMINATION SECOND WEEK March 14__
+Next Week March 14, 2024 [ 10-1pm ]
+Prepare for oral like a bitch
