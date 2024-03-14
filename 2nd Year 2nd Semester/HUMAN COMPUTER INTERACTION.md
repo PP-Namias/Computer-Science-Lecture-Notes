@@ -60,8 +60,8 @@ However, with the advent of the internet and the explosion of mobile and diversi
 Today, HCI focuses on designing, implementing, and evaluating interactive interfaces that enhance user experience using computing devices. This includes user interface design, user-centered design, and user experience design.
 
 Human Computer Interaction (HCI) – to satisfy users, mainly designs and interface. How easy your program is and how appealing it is to the user.
-__User Interface (UI)__ – aesthetic, colors, buttons, and designs.
-__User Experience (UX)__ – how the user feels about your program, user’s satisfaction, and user’s interaction to your program from first to last.
+- __User Interface (UI)__ – aesthetic, colors, buttons, and designs.
+- __User Experience (UX)__ – how the user feels about your program, user’s satisfaction, and user’s interaction to your program from first to last.
 
 ## Importance of HCI
 HCI is crucial in designing intuitive interfaces that people with different abilities and expertise usually access. Most importantly, human-computer interaction is helpful for communities lacking knowledge and formal training on interacting with specific computing systems.
@@ -257,7 +257,7 @@ Let us see the following model in software engineering for interactive designing
 ### The Waterfall Method
 ![Waterfall Model](Waterfall%20Model.png)
 ### Interactive System Design
-![Interactive System Design](Interactive System Design.png)
+![Interactive System Design](Interactive%20System%20Design.png)
 The uni-directional movement of the waterfall model of Software Engineering shows that every phase depends on the preceding phase and not vice-versa. However, this model is not suitable for the interactive system design.
 
 The interactive system design shows that every phase depends on each other to serve the purpose of designing and product creation. It is a continuous process as there is so much to know and users keep changing all the time. An interactive system designer should recognize this diversity.
